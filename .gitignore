@@ -31,3 +31,5 @@ Packages
 # xcuserdata
 # DerivedData/
 *.xcodeproj
+
+.DS_Store
